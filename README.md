@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @avatoren
+- _👋 Hi, I’m @avatoren_
 - I have one year of comp sci experience from the intro class I took freshman year 
 - I am taking this class to learn something interesting and broaden my interests
 - I am interested in playing tennis, spending time with my friends and family, and traveling 
